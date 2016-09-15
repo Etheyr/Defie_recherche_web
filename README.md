@@ -115,11 +115,13 @@
 
 #Quelle est votre adress IP actuelle ?
 
-> mon IP et 217.114.203.210 
+> mon IP et 217.114.203.215 
 [http://www.mon-ip.com/]
 
 #Et celle de votre smartphone ?
 
+> mon IP et 80.12.58.110
+[http://www.mon-ip.com/]
 
 #Qu’est-ce que le développement en cycle V ?
 
