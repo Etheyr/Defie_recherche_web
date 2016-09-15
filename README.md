@@ -125,6 +125,8 @@
 
 #Qu’est-ce que le développement en cycle V ?
 
+> un model conceptuel de gestion de projet 
+[https://fr.wikipedia.org/wiki/Cycle_en_V]
 
 #Les Hackers sont-ils des hors-la-loi ?
 
