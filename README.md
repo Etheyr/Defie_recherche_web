@@ -138,6 +138,8 @@
 
 #Qui est Margaret Hamilton ?
 
+> elle et responsable de projets pour la NASA
+[https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)]
 
 #Retrouvez le code source de la mission Apollo 11.
 
