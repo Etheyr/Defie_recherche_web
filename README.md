@@ -94,6 +94,8 @@
 
 #Qui est Linus Torvalds ?
 
+> linus Torvalds et le créateur de linux
+[https://fr.wikipedia.org/wiki/Linus_Torvalds]
 
 #Quelles sont ses plus grands développements ?
 
