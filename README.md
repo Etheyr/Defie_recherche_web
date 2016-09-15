@@ -154,6 +154,8 @@
 
 #Trouvez un screenshot de la première version de Facebook
 
+> screen shot de la première version de facebook 
+[http://www.creads.fr/blog/analyses-marketing-communication/premiere-version-reseaux-sociaux]
 
 #Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 
