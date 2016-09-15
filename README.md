@@ -115,6 +115,8 @@
 
 #Quelle est votre adress IP actuelle ?
 
+> mon IP et 217.114.203.210 
+[http://www.mon-ip.com/]
 
 #Et celle de votre smartphone ?
 
