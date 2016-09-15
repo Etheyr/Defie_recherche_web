@@ -133,6 +133,8 @@
 
 #Qui a inventé la souris ?
 
+> elle à été inventé par douglas engelbart
+[https://fr.wikipedia.org/wiki/Souris_(informatique)]
 
 #Qui est Margaret Hamilton ?
 
