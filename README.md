@@ -8,8 +8,11 @@
 
 #Quelle est la différence entre le Web et Internet ?
 
+> internet et un réseau le web et ça principale application 
+[http://www.gralon.net/articles/internet-et-webmaster/logiciel/article-quelle-est-la-difference-entre-web-et-internet--8644.htm]
 
 #Qu’est-ce que cela :
+
 8.8.8.8
 192.168.0.1
 255.255.255.0
