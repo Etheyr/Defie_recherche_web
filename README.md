@@ -99,6 +99,8 @@
 
 #Quelles sont ses plus grands développements ?
 
+> le noyau du systemes d'exploitation de linux
+[https://fr.wikipedia.org/wiki/Linus_Torvalds]
 
 #Combien coûte un nom de domaine ?
 
