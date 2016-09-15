@@ -84,8 +84,12 @@
 
 #Qui est Marissa Mayer ?
 
+> elle et le PDG de Yahoo!
+[https://fr.wikipedia.org/wiki/Marissa_Mayer]
 
 #Qu’est-ce qu’une attaque “brute force” ?
+> l'attaque force brute consiste a tester toutes les combinaison de chiffre et de lettre pour trouver une mot de passe 
+[https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute]
 
 
 #Qui est Linus Torvalds ?
