@@ -3,6 +3,8 @@
 
 #Par qui, quand, pourquoi et où a été inventé Internet ?
 
+> internet à été inventé par Paul Ray Tomlison en 1972
+[http://www.pourquois.com/societe/pourquoi-internet.html]
 
 #Quelle est la différence entre le Web et Internet ?
 
